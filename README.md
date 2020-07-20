@@ -44,3 +44,15 @@ In this challenge you will create a React Web App that interacts with the [COVID
 
 
 **Good Luck!**
+
+
+Download do projeto no GitHub
+git clone https://github.com/EddieSaboia/gdp-672-challenge.git
+
+Abrir pasta do projeto.
+
+Build do projeto
+yarn install
+
+Rodar o projeto
+yarn start
